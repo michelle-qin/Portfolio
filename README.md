@@ -1,0 +1,1 @@
+In the Wiki, you will find weekly entries (including project descriptions/updates, snippets of code, photos, notes, discoveries) documenting my senior year experience at the Dos Pueblos Engineering Academy. 
